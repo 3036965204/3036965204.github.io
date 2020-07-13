@@ -1,0 +1,27 @@
+{
+    "list": [{
+            "img": "/static/img/a5.gif",
+            "title": "重返校园,连体牛仔裤",
+            "name": "复古校园青春活力",
+            "price": 99
+        },
+        {
+            "img": "/static/img/a6.gif",
+            "title": "男士天鹅保暖牛仔裤",
+            "name": "柔软中包裹充盈热量",
+            "price": 188
+        },
+        {
+            "img": "/static/img/a7.gif",
+            "title": "男士羊羔休闲外套",
+            "name": "仿羊绒真实",
+            "price": 199
+        },
+        {
+            "img": "/static/img/a8.gif",
+            "title": "商务简约4件套",
+            "name": "140致密双光",
+            "price": 246
+        }
+    ]
+}
