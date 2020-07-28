@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d207b77"],{a25e:function(e,r,t){"use strict";t.r(r);var a=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("div",[t("el-breadcrumb",{attrs:{"separator-class":"el-icon-arrow-right"}},[t("el-breadcrumb-item",{attrs:{to:{path:"/Home"}}},[e._v("首页")]),t("el-breadcrumb-item",[e._v("商品管理")]),t("el-breadcrumb-item",[e._v("商品分类")])],1)],1)},c=[],l={},n=l,u=t("9ca4"),s=Object(u["a"])(n,a,c,!1,null,null,null);r["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d207b77.5f701dd6.js.map
